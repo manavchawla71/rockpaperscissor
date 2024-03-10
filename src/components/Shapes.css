@@ -1,0 +1,14 @@
+img {
+  height: 100px;
+}
+img:hover {
+  opacity: 0.5;
+  border-color: 2pc solid black;
+}
+.shapes {
+  margin-top: 5pc;
+  display: flex;
+  gap: 5rem;
+  justify-content: center;
+  border-radius: 50%;
+}
